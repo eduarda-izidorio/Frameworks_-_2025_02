@@ -38,3 +38,5 @@ Todas as alterações que você fizer serão salvas no seu navegador.
 
 ## 📝 Autor
 **Carla Eduarda Alves Izidorio**
+
+https://github.com/eduarda-izidorio/Frameworks_-_2025_02/tree/main/cadastro_equipamentos
