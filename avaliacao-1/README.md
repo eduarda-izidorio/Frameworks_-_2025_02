@@ -58,10 +58,12 @@ cd [nome-do-repositório]
 ## Instalar dependências
 ```bash
 npm install
+```
 
 ## Executar o projeto
 ```bash
 npm run dev
+```
 
 
 A aplicação será iniciada em:  
