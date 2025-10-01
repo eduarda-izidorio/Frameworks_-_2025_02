@@ -41,7 +41,7 @@ Este projeto deve ser executável via:
 
 ```bash
 npm run dev
-
+```
 
 ## Pré-requisitos
 - **Node.js**: Verifique a versão utilizada.  
@@ -51,7 +51,7 @@ npm run dev
 
 ## Clonar o repositório
 ```bash
-git clone https://docs.github.com/pt/repositories/creating-and-managing-repositories/quickstart-for-repositories
+git clone https://github.com/eduarda-izidorio/Frameworks_-_2025_02.git
 cd [nome-do-repositório]
 
 
