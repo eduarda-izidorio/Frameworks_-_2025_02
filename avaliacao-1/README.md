@@ -82,6 +82,6 @@ A aplicação será iniciada em:
 ---
 
 ## Identificação do Grupo
-- **Aluno 1**: [Nome completo e Matrícula]  
-- **Aluno 2**: [Nome completo e Matrícula]  
-- **Aluno 3**: [Nome completo e Matrícula]  
+- **Aluno 1**: [2019274108 - Carla Eduarda Alves Izidorio]
+- **Aluno 2**: [20220010880 - Kaila Geovana Martins Poloniato] 
+- **Aluno 3**: [20230041164 - Ryller Brito Pereira] 

@@ -14,11 +14,11 @@
         <p class="text-body-2 mt-4">
           Desenvolvido por:
           <br />
-          [Carla Eduarda Alves Izidorio]
+          [2019274108 - Carla Eduarda Alves Izidorio]
           <br />
-          [Kaila Geovana Martins Poloniato]
+          [20220010880 - Kaila Geovana Martins Poloniato]
           <br />
-          [Ryller Brito Pereira]
+          [20230041164 - Ryller Brito Pereira]
         </p>
       </v-col>
     </v-row>
