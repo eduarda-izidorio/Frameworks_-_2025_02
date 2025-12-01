@@ -4,9 +4,7 @@
 **Data:** 12 de novembro de 2025
 
 ## Integrantes do Grupo
-*   [Nome do Integrante 1]
-*   [Nome do Integrante 2]
-*   [Nome do Integrante 3]
+*   Carla Eduarda Alves Izidório - 2019274108
 
 ## Descrição do Sistema
 Este sistema é uma aplicação web para gerenciamento de finanças pessoais. Ele permite que usuários autenticados via Google gerenciem receitas e despesas (CRUD completo de transações).
