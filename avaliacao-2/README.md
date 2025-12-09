@@ -95,6 +95,8 @@ Este sistema é uma aplicação web para gerenciamento de finanças pessoais. El
     npm start
     ```
     O servidor rodará em `http://localhost:3000`.
+5.  **Documentação da API (Swagger):**
+    *   Acesse `http://localhost:3000/api-docs` para visualizar e testar os endpoints da API.
 
 ### 2. Frontend
 1.  Acesse a pasta `frontend`:
